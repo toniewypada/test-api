@@ -1,7 +1,4 @@
 {
-  "data": 
-    {
-      "releaseStage": "debug",
-      "appVersion": "1.2.3"
-    }
+    "releaseStage": "debug",
+    "appVersion": "1.2.3"
 }
